@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 # Welcome!
-*where anyone is welcome*
+*Where anyone is welcome*
 
-Welcome to my personal website. 
+## About the website - 
+This website is about my accomplishments throughout the years, enjoy. 
