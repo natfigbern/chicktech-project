@@ -3,6 +3,4 @@ layout: single
 permalink: / 
 ---
 
-Hello, ChickTech! 
-This is my new page.
-From, Natalia 
+<h1 Welcome to my website!>
