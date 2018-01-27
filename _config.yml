@@ -1,3 +1,8 @@
 remote_theme: mmistakes/minimal-mistakes
 title: Galaxy NGC 891
 include: ["_pages"]
+
+author:
+name: "Jane Doe"
+avatar: "https://somedomain.com/path/to/pic.jpg
+bio: "Just an average person"
