@@ -4,8 +4,9 @@ permalink: /
 author_profile: true
 ---
 
+------------------
 # Welcome!
-*Where anyone is welcome*
+*glad to see you*
 
-## About the website - 
-This website is about my accomplishments throughout the years, enjoy. 
+About the website - 
+Hello my name is Natalia and this is the first ever website I made from scratch. I hope you all enjoy this website, I will list all my accomplishements and information.
