@@ -4,8 +4,6 @@ permalink: /
 author_profile: true
 ---
 
-# Welcome to my website!
-
+# Welcome!
 *where anyone is welcome*
-
-Hello my name is Natalia and on this website i will document my acheivements throughout the years. 
+Welcome to my personal website. 
