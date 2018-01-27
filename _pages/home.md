@@ -8,4 +8,3 @@ permalink: /
 
 *where future women in tech meet*
 
-author_profile: true
