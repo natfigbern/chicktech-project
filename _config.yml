@@ -1,8 +1,8 @@
 remote_theme: mmistakes/minimal-mistakes
-title: All About Natalia 
+title: Welcome 
 include: ["_pages"]
 
 author:
   name: "Natalia F.B"
   avatar: "https://pm1.narvii.com/6269/05e019be43474f4dbb491bd336db3aa228d19ec8_hq.jpg"
-  bio: "Just a human being"
+  bio: "Future Techie"
